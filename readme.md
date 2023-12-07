@@ -7,7 +7,7 @@ This repository is a collection of my own work completing coding challenges usin
 - Leetcode
   - 1. Two Sum
   - 9. Palindrome Number
-    13. Roman to Integer
+  - 13. Roman to Integer
 
 **LANGUAGES I USED**
 - Python
